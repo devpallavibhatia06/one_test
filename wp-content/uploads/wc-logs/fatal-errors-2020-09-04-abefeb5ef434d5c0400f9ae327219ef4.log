@@ -1,0 +1,4 @@
+2020-09-04T01:24:09+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH) in C:\xampp\htdocs\gift_academy\wp-content\themes\gift_academy\homepage.php on line 125
+
+2020-09-04T02:39:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gift_academy\wp-content\plugins\jetpack\_inc\lib\core-api\wpcom-endpoints\business-hours.php on line 8
+

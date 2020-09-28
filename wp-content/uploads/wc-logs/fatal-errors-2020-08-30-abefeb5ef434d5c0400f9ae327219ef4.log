@@ -1,0 +1,4 @@
+2020-08-30T16:37:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gift_academy\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Historical_Data.php on line 10
+
+2020-08-30T16:41:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gift_academy\wp-includes\Requests\Transport\cURL.php on line 163
+

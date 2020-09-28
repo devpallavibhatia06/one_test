@@ -1,0 +1,4 @@
+2020-08-28T03:55:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gift_academy\wp-content\plugins\jetpack\_inc\lib\core-api\load-wpcom-endpoints.php on line 19
+
+2020-08-28T03:55:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gift_academy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\SharedType.php on line 15
+
